@@ -29,7 +29,7 @@ Feel free to join audi room to discuss specific topics in small groups and adver
 
 If you want to use the audio feature of the Discord app, it is recommended to manually adjust the "Input sensitivity" level in the "App Settings" to avoid having your speech cut in the middle of a sentence. 
 
-### Resources for beginners
+## Resources for beginners
 
 #### [Craft Minimal Bug Reports](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports)
 
