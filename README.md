@@ -25,7 +25,7 @@ if you don't have one already.
 The sprint will take place on [Discord](https://discordapp.com/) (see the invite link sent by email).
 Discord text and audio channels will be used for communication during the Sprint.
 
-Feel free to join audi room to discuss specific topics in small groups and advertise the top in the main text channel. It is possible to share the screen in audio channels and therefore possible to engage in pair programming sessions.
+Feel free to join an audio room to discuss specific topics in small groups and advertise the top in the main text channel. It is possible to share the screen in audio channels and therefore possible to engage in pair programming sessions.
 
 If you want to use the audio feature of the Discord app, it is recommended to manually adjust the "Input sensitivity" level in the "App Settings" to avoid having your speech cut in the middle of a sentence. 
 
