@@ -6,17 +6,27 @@ _This will be a private event aimed to improve collaboration among the Consortiu
 _If you are interested in participate to a scikit-learn development sprint a number of public Sprints are
 [scheduled](https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events)._
 
-## Before the Sprint
-
-Create your [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) 
+## Before the Sprint (e.g. on Monday June 22)
+- Create your [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) 
 if you don't have one already.
-Please, set your development environment following [those instructions](1.environment.md).
-If you need some help at this stage you can use the [Sprint gitter channel](https://gitter.im/scikit-learn/sprint) to ask.
+- **Set up your development environment** following the instructions in the markdown file of this repo:
+  - [1.environment.md](1.environment.md)
+  - [2.building.md](2.building.md)
+  - [3.example.md](3.example.md)
+  - [4.test.md](4.test.md)
+  - [5.workflow.md](5.workflow.md)
+  - [6.ci.md](6.ci.md)
+  - [7.documentation.md](7.documentation.md)
+- Have a look a the resources linked below.
+- Feel free too ask join the discord group on Monday 22 to ask for help with the setup (see below). Alternatively you can ask for help on the [Gitter Sprint Channel](https://gitter.im/scikit-learn/sprint), at any time.
 
-## During the Sprint
+## During the Sprint (June 23-26)
 
-The Sprint will take place on Discord.
-Discord channels will be used for communication during the Sprint.
+The sprint will take place on [Discord](https://discordapp.com/) (see the invite link sent by email).
+Discord text and audio channels will be used for communication during the Sprint.
+Feel free to join audi room to discuss specific topics in small groups and advertise the top in the main text channel.
+
+If you want to use the audio feature of the Discord app, it is recommended to manually adjust the "Input sensitivity" level in the "App Settings" to avoid having your speech cut in the middle of a sentence. 
 
 ### Resources for beginners
 
