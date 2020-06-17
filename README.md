@@ -42,6 +42,8 @@ If you want to use the audio feature of the Discord app, it is recommended to ma
 
 ## Resources for beginners
 
+#### [Scikit-learn contributor's documentation](https://scikit-learn.org/dev/developers/contributing.html)
+
 #### [Craft Minimal Bug Reports](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports)
 
 #### Crash course in contributing to open source projects
