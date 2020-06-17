@@ -21,6 +21,10 @@ if you don't have one already.
 - Feel free too ask for help with setup joining the discord group on Monday 22.
   Alternatively you can ask for help on the [Gitter Sprint Channel](https://gitter.im/scikit-learn/sprint), at any time.
 
+A list of addressable issues is available [here](https://github.com/scikit-learn-inria-fondation/RemoteSprintJune2020/projects/1).
+If you look for specific topics to address and you could not find what you are looking for, feel free to ask joining the 
+discord group on Monday 22.
+
 ## During the Sprint (June 23-26)
 
 The sprint will take place on [Discord](https://discordapp.com/) (see the invite link sent by email).
