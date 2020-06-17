@@ -12,6 +12,7 @@ if you don't have one already.
 - **Set up your development environment** following the instructions in the markdown file of this repo:
   - [1.environment.md](1.environment.md)
   - [2.building.md](2.building.md)
+- **Get familiar with the scikit-learn development process**
   - [3.example.md](3.example.md)
   - [4.test.md](4.test.md)
   - [5.workflow.md](5.workflow.md)
