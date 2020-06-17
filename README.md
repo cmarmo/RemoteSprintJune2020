@@ -18,7 +18,8 @@ if you don't have one already.
   - [6.ci.md](6.ci.md)
   - [7.documentation.md](7.documentation.md)
 - Have a look a the resources linked below.
-- Feel free too ask join the discord group on Monday 22 to ask for help with the setup (see below). Alternatively you can ask for help on the [Gitter Sprint Channel](https://gitter.im/scikit-learn/sprint), at any time.
+- Feel free too ask for help with setup joining the discord group on Monday 22.
+  Alternatively you can ask for help on the [Gitter Sprint Channel](https://gitter.im/scikit-learn/sprint), at any time.
 
 ## During the Sprint (June 23-26)
 
