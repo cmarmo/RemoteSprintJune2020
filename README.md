@@ -19,7 +19,8 @@ if you don't have one already.
   - [6.ci.md](6.ci.md)
   - [7.documentation.md](7.documentation.md)
 - Have a look a the resources linked below.
-- Feel free too ask for help with setup joining the discord group on Monday 22.
+- Feel free too ask for help with setup joining the discord group on Monday 22: core-devs and helpers will be available
+  online.
   Alternatively you can ask for help on the [Gitter Sprint Channel](https://gitter.im/scikit-learn/sprint), at any time.
 
 ## During the Sprint (June 23-26)
@@ -36,9 +37,9 @@ Feel free to join an audio room to discuss specific topics in small groups and a
 If you want to use the audio feature of the Discord app, it is recommended to manually adjust the "Input sensitivity" level in the "App Settings" to avoid having your speech cut in the middle of a sentence.
 
 ### Schedule
-- Tuesday 23rd: Beginner introduction
+- Tuesday 23rd 9.30AM CEST (GMT+2): Beginner introduction (Olivier Grisel).
 - Wednesday 24th - Friday 26th: Follow-up and mentoring for beginners, advanced discussions for experienced users and
-  contributors  
+  contributors.
 
 ## Resources for beginners
 
